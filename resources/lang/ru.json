@@ -1,0 +1,20 @@
+{
+   "You are logged in!"    : "Вы вошли в систему!"    ,
+   "Logout"                : "Выйти"                  ,
+   "Login"                 : "Вход в систему"         ,
+   "Register"              : "Регистрироваться"       ,
+   "Email Address"         : "Адрес электронной почты",
+   "Password"              : "Пароль"                 ,
+   "Remember Me"           : "Запомнить меня"         ,
+   "Forgot Your Password?" : "Забыли пароль?"         ,
+
+   "Name"                  : "Имя"                    ,
+   "surname"               : "Фамилия"                ,
+   "Patronym"              : "Отчество"               ,
+   "file"                  : "Файл(pdf,pptx,odb)"     ,
+   "Verify Your Email Address" : "Проверьте свой адрес электронной почты",
+   "Before proceeding, please check your email for a verification link." : "Прежде чем продолжить, проверьте свою электронную почту на наличие ссылки для подтверждения.",
+   "A fresh verification link has been sent to your email address.": "На ваш адрес электронной почты отправлена ​​новая ссылка для подтверждения.",
+   "If you did not receive the email" : "Если вы не получили письмо",
+   "click here to request another" : "нажмите здесь, чтобы запросить другой"
+}

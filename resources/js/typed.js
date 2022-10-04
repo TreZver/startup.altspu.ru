@@ -1,0 +1,1 @@
+require('../../node_modules/typed.js/lib/typed.min.js');
